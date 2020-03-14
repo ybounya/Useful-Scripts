@@ -1,4 +1,4 @@
 Useful-Scripts
 ==============
 
-Various useful scripts
+Various useful scripts and other stuff
